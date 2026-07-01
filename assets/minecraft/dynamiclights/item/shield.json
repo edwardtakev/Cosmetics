@@ -1,10 +1,6 @@
 {
-  "match": {
-    "items": "minecraft:shield"
-  },
-  "luminance": {
-    "type": "block",
-    "block": "minecraft:torch"
-  },
-  "water_sensitive": true
+	"match": {
+		"items": "minecraft:shield"
+	},
+	"luminance": 10
 }
