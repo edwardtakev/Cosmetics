@@ -1,0 +1,20 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_data",
+    "cases": [
+      {
+        "when": "{netherite:1b}",
+        "model": {
+          "type": "minecraft:model",
+          "model": "armor/netherite_chestplate"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/netherite_chestplate"
+    }
+  }
+}

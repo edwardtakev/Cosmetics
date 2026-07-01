@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cosmetics:entity/equipment/humanoid_leggings/leather",
+    "layer1": "cosmetics:entity/equipment/humanoid_leggings/leather_overlay"
+  }
+}
